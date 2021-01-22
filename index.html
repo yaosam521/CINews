@@ -1,0 +1,28 @@
+---
+layout: default
+title: News From Côte d'Ivoire - Real or Satire
+tags: index
+---
+<div class="container">
+    <img src="assets/images/fratmat_logo.png" style="padding-bottom: 10px;"/>
+        <ul>
+            {% for post in site.posts reversed %}
+                {% if post.tags contains "fratmat" %}
+                    <li>
+                        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    <hr/>
+    <img src="assets/images/le_daisirlan_logo_resize_1.png" style="width: 30vw; ; height:auto; padding-bottom: 10px;"/>
+    <ul>
+        {% for post in site.posts reversed %}
+            {% if post.tags contains "daisirlan" %}
+                <li>
+                    <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

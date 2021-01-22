@@ -1,0 +1,130 @@
+/*CSS Concerning Text is here*/
+
+.main-page{
+    width: 60vw;
+}
+
+.container > p{
+    font-size: large;
+}
+
+#lyrics{
+    text-align: center;
+    font-style: italic;
+}
+
+li {
+    font-size: large;
+}
+
+#headlines > ul > li {
+    font-size: medium;
+}
+
+.main-image-container > #image-caption{
+    font-size: small;
+    font-style: italic;
+    padding-top: 0.5vw;
+}
+
+#date-published{
+    margin-left: 1rem;
+}
+
+/*CSS Concerning the Images*/
+.main-image-container{
+    max-width: 50vw;
+}
+
+.secondary-image-container{
+    /*max-width: 22vw;*/
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+#body-image{
+    max-width: 40vw;
+    /*margin-bottom: 5mm;*/
+}
+
+#container-image{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image-1{
+    width: 50vw;
+    height: auto;
+}
+
+#fratmat-logo{
+    width: 10vw;
+    height: auto;
+    padding: 5px;
+}
+
+.daisirlan-logo{
+    width: 15vw;
+    height: auto;
+    padding: 5px;
+}
+
+blockquote {
+    border-left: 5px solid #ED8700;
+}
+
+/*body{
+    background-color:#ffffff;
+}*/
+
+/*.navbar{
+    background-color: #1C473D;
+}*/
+
+
+#default-title{
+    color: #ED8700;
+    margin-top: 1rem;
+}
+
+.fa:hover{
+    color: #cc7401;
+}
+
+#bar-options > .nav-item > .nav-link{
+    font-size: large;
+    color: black;
+}
+
+.fa {
+    padding: 8px;
+    font-size: 2vw;
+    
+    /*
+    width: 1vw;
+    margin: 5px 2px;*/
+}
+  
+.fa-facebook, .fa-twitter, .fa-instagram {
+    color: #ED8700;
+}
+
+.icon-bar{
+    text-align: center;
+    font-size: large;
+}
+
+#navbar{
+    margin-bottom: 1rem;
+}
+
+#search-icon{
+    font-size: 1rem;
+    color: grey;
+}
+
+.asdfasdf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

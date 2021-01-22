@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" 
+    rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+
+    {% if page.tags contains "index" %}
+      <link rel="stylesheet" href="assets/css/main.css">
+    {% else %}
+      <link rel="stylesheet" href="../../../assets/css/main.css">
+    {% endif %}
+    
+    <title>
+      {% if page.tags contains "fratmat" %}
+        Fraternité Matin - {{page.title}}
+      {% elsif page.tags contains "daisirlan" %}
+        Le Daisirlan - {{page.title}}
+      {% else %}
+        News From Côte d'Ivoire - Real and Satire
+      {% endif %}
+    </title>
+  </head>
+  <body>
+    {% include navheader.html %}
+    <div class="container">
+      {{ content }}
+    </div>
+    {% include bootstrap.html %}
+  </body>
+</html>

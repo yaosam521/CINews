@@ -33,8 +33,8 @@ I'll be there for you (St. Helena ain't so bad)<br>
 I'll be there for you (Invading Russia in the winter is a very bad idea, dumbass)<br>
 </p>
 
-<div class="secondary-image-container">
-    <img src = "../../../assets/images/Turn_9_Daisirlan_Image_2.JPG" id="container-image">
+<div class="body-image-container">
+    <img src = "../../../assets/images/Turn_9_Daisirlan_Image_2.JPG" class="body-image">
     <p id="image-caption">Guitarist and Bassist Christophe Keita (left) and Paul Soro (right) taunt a distraught Napoleon with Jojo poses on Sainte-Hélène in the music video for <i>White Flag</i>.</p>
 </div>
 

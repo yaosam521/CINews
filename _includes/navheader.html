@@ -1,8 +1,8 @@
-<nav class="navbar navbar-expand-sm navbar-light shadow-sm" id="navbar">
+<nav class="navbar navbar-expand-lg navbar-light shadow-sm sticky-top" id="navbar">
     <div class="container">
         {% if page.tags contains "fratmat" %}
             <a class = "navbar-brand" href="../../../index.html">
-                <img src="../../../assets/images/fratmat_logo.png" alt ="logo" id="fratmat-logo"><!-- Fraternite Matin Layout -->
+                <img src="../../../assets/images/fratmat_logo.png" alt ="logo" class="fratmat-logo"><!-- Fraternite Matin Layout -->
             </a>
         {% elsif page.tags contains "daisirlan" %}
             <a class = "navbar-brand" href="../../../index.html">
@@ -11,31 +11,36 @@
         {% else %}
             <p class="navbar-brand" id="default-title">News From Côte d'Ivoire</p> <!-- Default Layout -->
         {% endif %}
-        <ul class="navbar-nav" id="bar-options">
-            <li class="asdfasdf">
-                <span class="fa fa-search" id="search-icon"></span>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link">Domestic</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link">HIV-M</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link">Opinion</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link">Africa</a>
-              </li>
-            <li class="nav-item">
-              <a class="nav-link">Americas</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link">Europe</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link">Asia</a>
-            </li>
-        </ul>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#news-options">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="news-options">
+            <ul class="navbar-nav" id="bar-options">
+                <li class="asdfasdf">
+                    <span class="fa fa-search" id="search-icon"></span>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">Domestic</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">HIV-M</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">Opinion</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">Africa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">Americas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">Europe</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link">Asia</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>

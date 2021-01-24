@@ -26,7 +26,7 @@ The answer is simple.
 Do you see this cute guy's face?
 
 <div class="secondary-image-container">
-    <img src = "../../../assets/images/Turn_13_Daisirlan_Image_2.JPG" id="body-image">
+    <img src = "../../../assets/images/Turn_13_Daisirlan_Image_2.JPG" class="body-image">
 </div>
 
 If Hitler was as evil as everyone claims he is, wouldn't his first gut instinct be to punch the dog and throw it down the Zell Am See Mountainside? Wouldn't he rather has roasted his German Shepherd alive and served it salted with BBQ Sauce to Goebbels and Himmler?
@@ -36,5 +36,5 @@ If Hitler was as evil as everyone claims he is, wouldn't his first gut instinct 
 No matter how shitty your reputation is, you can always repair it with a totally not forced photo op with a cute animal for PR purposes. 
 
 <div class="secondary-image-container">
-    <img src = "../../../assets/images/Turn_13_Daisirlan_Image_3.JPG" id="body-image">
+    <img src = "../../../assets/images/Turn_13_Daisirlan_Image_3.JPG" class="body-image">
 </div>

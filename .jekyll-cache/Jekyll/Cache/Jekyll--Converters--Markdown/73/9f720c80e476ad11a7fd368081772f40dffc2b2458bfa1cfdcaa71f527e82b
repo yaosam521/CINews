@@ -1,69 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" 
-    rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-
-
-    <!-- Add icon library -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    
-      <link rel="stylesheet" href="../../../assets/css/main.css">
-    
-
-    <link rel="icon" href="../../CINews/assets/images/tab_icon.png">
-    
-    <title>
-      
-        Le Daisirlan - Turn 9
-      
-    </title>
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light shadow-sm sticky-top" id="navbar">
-    <div class="container">
-        
-            <a class = "navbar-brand" href="../../../index.html">
-                <img src="../../../assets/images/le_daisirlan_logo_resize_1.png" class="daisirlan-logo"><!-- Le Daisirlan Layout -->
-            </a>
-        
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#news-options">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end" id="news-options">
-            <ul class="navbar-nav" id="bar-options">
-                <li class="asdfasdf">
-                    <span class="fa fa-search" id="search-icon"></span>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">Domestic</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">HIV-M</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">Opinion</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">Africa</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">Americas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">Europe</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link">Asia</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
-    <div class="container main-page">
-      <h1 id="war-metal-band-run-bmc-insists-theyre-apolitical-history-nerds-despite-overwhelmingly-anti-french-lyrics">War Metal Band “Run BMC” Insists They’re Apolitical “History Nerds” Despite Overwhelmingly Anti-French Lyrics</h1>
+I"�<h1 id="war-metal-band-run-bmc-insists-theyre-apolitical-history-nerds-despite-overwhelmingly-anti-french-lyrics">War Metal Band “Run BMC” Insists They’re Apolitical “History Nerds” Despite Overwhelmingly Anti-French Lyrics</h1>
 
 <p><strong>By Konan Diallo</strong>, May 16th, 2022</p>
 
@@ -100,18 +35,4 @@ I'll be there for you (Invading Russia in the winter is a very bad idea, dumbass
 <p>The documentary also uses comments on their YouTube videos as an example that the band is inciting anti-French sentiment, showing comments such as “France ought to acknowledge what they’ve done”, and “This song is a great anti-colonial banger!”. The documentary then goes on to suggest that the Ivoirian pilots who killed 9 French troops in 2004 were die-hard fans of Run BMC.</p>
 
 <p>Frontman Joachim Bakayoko hit back on air, saying that while Run BMC does not condone their music being used for political or violent purposes, “it’s still pretty fun to make fun of France for their military defeats.”</p>
-
-      
-      <hr>
-    </div>
-    <div class="icon-bar">
-    <p>Share this:</p>
-    <span class="fa fa-facebook"></span>
-    <span class="fa fa-twitter"></span>
-    <span class="fa fa-instagram"></span>
-</div>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
-
-  </body>
-</html>
+:ET

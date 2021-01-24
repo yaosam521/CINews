@@ -25,9 +25,9 @@ The plan involves working with all of the cocoa producing countries in the world
 
 But how else does Cocoa production ruin the world? What are some of the unforeseen consequences of rampant deforestation?
 
-<div class="secondary-image-container">
-    <img src = "../../../assets/images/Turn_30_Fratmat_Image_2.JPG" id="body-image">
-    <p id="image-caption"><i>Another terrible scene in the human-wildlife conflict: A farmer brutally slices off the fingers of the leader of a raiding M O N K E </i></p>
+<div class="body-image-container">
+    <img class = "body-image" src = "../../../assets/images/Turn_30_Fratmat_Image_2.JPG">
+    <p><i>Another terrible scene in the human-wildlife conflict: A farmer brutally slices off the fingers of the leader of a raiding M O N K E </i></p>
 </div>
 
 Deforestation results in lots of dead vegetation that releases a lot of unprocessed carbon dioxide into the atmosphere, making it one of the primary factors of climate change. In addition, there is less vegetation that can convert the carbon dioxide produced by animals and humans, further adding to the issue. If deforestation continues at the current rate, we could be seeing further desertification of the Sahel, leading to yet another refugee crisis.

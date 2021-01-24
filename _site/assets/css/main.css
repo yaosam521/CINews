@@ -1,7 +1,7 @@
 /*CSS Concerning Text is here*/
 
 .main-page{
-    width: 60vw;
+    padding-right: 20vw;
 }
 
 .container > p{
@@ -37,14 +37,16 @@ li {
 }
 
 .secondary-image-container{
-    /*max-width: 22vw;*/
     margin: 0 0 10px;
-    text-align: center;
+    object-fit: contain;
 }
 
-#body-image{
-    max-width: 40vw;
-    /*margin-bottom: 5mm;*/
+.body-image-container{
+    max-width: 50vw;
+}
+.body-image{
+    max-width: 100%;
+    max-height: auto;
 }
 
 #container-image{
@@ -57,14 +59,14 @@ li {
     height: auto;
 }
 
-#fratmat-logo{
-    width: 10vw;
+.fratmat-logo{
+    width: 250px;
     height: auto;
     padding: 5px;
 }
 
 .daisirlan-logo{
-    width: 15vw;
+    width: 300px;
     height: auto;
     padding: 5px;
 }
@@ -116,6 +118,7 @@ blockquote {
 
 #navbar{
     margin-bottom: 1rem;
+    background-color: white;
 }
 
 #search-icon{

@@ -14,6 +14,8 @@
     {% else %}
       <link rel="stylesheet" href="../../../assets/css/main.css">
     {% endif %}
+
+    <link rel="icon" href="../../CINews/assets/images/tab_icon.png">
     
     <title>
       {% if page.tags contains "fratmat" %}
@@ -34,8 +36,9 @@
           {% include headlines.html %}
         </div>
       {% endif %}
-      {% include share.html %}
+      <hr>
     </div>
+    {% include share.html %}
     {% include bootstrap.html %}
   </body>
 </html>

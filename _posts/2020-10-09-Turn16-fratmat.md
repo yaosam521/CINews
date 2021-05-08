@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 16
+headline: Socialism with Ivorian Characteristics?
+photo: ../../../assets/images/Turn_16_Fratmat_Image_1.JPG
 ---
 
 # Socialism with Ivorian Characteristics?

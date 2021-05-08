@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 14
+headline: Remember, No Amharic - The Case to Reopen Arms Trade with America
+photo: ../../../assets/images/Turn_14_Fratmat_Image_1.JPG
 ---
 
 # Remember, No Amharic - The Case to Reopen Arms Trade with America
@@ -33,4 +35,3 @@ For some time, Cote d'Ivoire has remained relatively isolationist in reaction to
 
 It is understandable that the President cancelled arms trade with the United States after the deplorable comments Trump made about West Africa. While Trump's words and condescension of us shouldn't be excused, the best answer to these jeers would be to rise to the occasion and exceed the expectations of those who think the least of you. And it's made even better when they are willing to help you at it, isn't it?
 
----

@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 30
+headline: Cocoa Production is Ruining the World - and How an International Cartel Could Solve This
+photo: ../../../assets/images/Turn_30_Fratmat_Image_1.JPG
 ---
 
 # Cocoa Production is Ruining the World - and How an International Cartel Could Solve This

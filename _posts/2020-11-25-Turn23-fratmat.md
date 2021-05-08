@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 23
+headline: Abidjan to Create 'Central Business Territory' in Plateau Commune with Ivorypunk Aesthetic
+photo: ../../../assets/images/Turn_23_Fratmat_Image_1.JPG
 ---
 
 # Abidjan to Create 'Central Business Territory' in Plateau Commune with Ivorypunk Aesthetic

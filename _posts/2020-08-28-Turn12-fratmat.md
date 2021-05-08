@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 12
+headline: Addressing Statelesness in the Nation
+photo: ../../../assets/images/Turn_12_Fratmat_Image_1.JPG
 ---
 
 # Addressing Statelesness in the Nation

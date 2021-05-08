@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 26
+headline: Infinity Ward's "Modern Warfare 2028" Sends Captain Price and Task Force 141 to Chad, Tanzania, and Tibet
+photo: ../../../assets/images/Turn_26_Fratmat_Image_1.JPG
 ---
 
 # Infinity Ward's "Modern Warfare 2028" Sends Captain Price and Task Force 141 to Chad, Tanzania, and Tibet

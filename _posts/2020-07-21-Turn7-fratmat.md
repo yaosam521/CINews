@@ -1,7 +1,9 @@
 ---
 layout: article
 tags: fratmat
-title: Turn 7 
+title: Turn 7
+headline: WestAR and ECO Approach Completion, Other Economic Projects Planned
+photo: ../../../assets/images/Turn_7_Fratmat_Image_1.JPG
 ---
 
 # WestAR and ECO Approach Completion, Other Economic Projects Planned

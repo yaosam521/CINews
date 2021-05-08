@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 10
+headline: Local Secondary School Students Use Twitter and Memes to Get Fellow Peers into Politics
+photo: ../../../assets/images/Turn_10_Fratmat_Image_1.JPG
 ---
 
 # Local Secondary School Students Use Twitter and Memes to Get Fellow Peers into Politics

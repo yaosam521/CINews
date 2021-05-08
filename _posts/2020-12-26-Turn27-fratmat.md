@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 27
+headline: Ouattara Questions Moroccan Military Presence in Western Sahara, Issues Stark Warning for HIV-M
+photo: ../../../assets/images/Turn_27_Fratmat_Image_1.JPG
 ---
 
 # Ouattara Questions Moroccan Military Presence in Western Sahara, Issues Stark Warning for HIV-M

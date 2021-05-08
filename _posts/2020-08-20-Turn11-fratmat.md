@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 11
+headline: Ouattara Apologizes for US Arms Deal, Soldiers Trade M4's in Favor of FAMAS's and AK-47's in Solidarity with CAR
+photo: ../../../assets/images/Turn_11_Fratmat_Image_1.JPG
 ---
 
 # Ouattara Apologizes for US Arms Deal, Soldiers Trade M4's in Favor of FAMAS's and AK-47's in Solidarity with CAR

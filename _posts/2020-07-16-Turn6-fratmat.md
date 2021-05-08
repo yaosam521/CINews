@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 6
+headline: Ouattara Faces Tough Questions From Reporters on His Reponse to Anti-European Protests
+photo: ../../../assets/images/Turn_6_Fratmat_Image_1.jpg
 ---
 
 # Ouattara Faces Tough Questions From Reporters on His Reponse to Anti-European Protests

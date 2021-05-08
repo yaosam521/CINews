@@ -2,6 +2,8 @@
 layout: article
 tags: daisirlan
 title: Turn 15
+headline: Blur Cancelled on Twitter for Causing Worldwide Recession, Social Violence After Refusing to Record Song 3
+photo: assets/images/Turn_15_Daisirlan_Image_1.JPG
 ---
 
 # Blur Cancelled on Twitter for Causing Worldwide Recession, Social Violence After Refusing to Record Song 3

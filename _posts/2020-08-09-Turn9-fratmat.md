@@ -3,7 +3,7 @@ layout: article
 tags: fratmat
 title: Turn 9 
 headline: UST-CI Applied Technology Team Accepts Firearms Design Challenge from Nexter Systems
-photo: ../../../assets/images/Turn_9_Fratmat_Image_1.JPG
+photo: assets/images/Turn_9_Fratmat_Image_1.JPG
 ---
 
 # UST-CI Applied Technology Team Accepts Firearms Design Challenge from Nexter Systems

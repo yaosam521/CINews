@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 31
+headline: Farmers Recieve Financial Incentives in Effort to Curtail Deforestation
+photo: assets/images/Turn_31_Fratmat_Image_1.JPG
 ---
 
 # Farmers Recieve Financial Incentives in Effort to Curtail Deforestation

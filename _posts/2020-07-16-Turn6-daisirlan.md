@@ -3,7 +3,7 @@ layout: article
 tags: daisirlan
 title: Turn 6
 headline: Emmanuel Macron Brings Alassane Ouattara on Take Your Kid To Work Day
-photo: ../../../assets/images/Turn_6_Daisirlan_Image_1.JPG
+photo: assets/images/Turn_6_Daisirlan_Image_1.JPG
 ---
 
 # Emmanuel Macron Brings Alassane Ouattara on Take Your Kid To Work Day

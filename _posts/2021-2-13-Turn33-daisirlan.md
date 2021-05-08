@@ -2,6 +2,8 @@
 layout: article
 tags: daisirlan
 title: Turn 33
+headline: Air Force Recruits Excited To Begin New Training Program in Ace Combat 5
+photo: assets/images/Turn_33_Daisirlan_Image_1.JPG
 ---
 
 # Air Force Recruits Excited To Begin New Training Program in Ace Combat 5

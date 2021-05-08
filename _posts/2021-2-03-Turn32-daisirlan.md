@@ -2,6 +2,8 @@
 layout: article
 tags: daisirlan
 title: Turn 32
+headline: Matt Bellamy of Muse Wins Twelve Grammy Awards for Rapping About Esoteric Anarcha-Thatcherites From Outer Space While Banging Head on Piano
+photo: assets/images/Turn_32_Daisirlan_Image_1.JPG
 ---
 
 # Matt Bellamy of Muse Wins Twelve Grammy Awards for Rapping About Esoteric Anarcha-Thatcherites From Outer Space While Banging Head on Piano

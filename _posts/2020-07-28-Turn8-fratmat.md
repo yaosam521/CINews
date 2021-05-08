@@ -3,7 +3,7 @@ layout: article
 tags: fratmat
 title: Turn 8 
 headline: Chocolate, Colonial Extraction, and the Resource Curse Income Gap
-photo: ../../../assets/images/Turn_8_Fratmat_Image_1.JPG
+photo: assets/images/Turn_8_Fratmat_Image_1.JPG
 ---
 
 # Chocolate, Colonial Extraction, and the Resource Curse Income Gap

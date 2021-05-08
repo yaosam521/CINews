@@ -3,7 +3,7 @@ layout: article
 tags: fratmat
 title: Turn 18
 headline: Olympic Gold Medalists Chieck Cissé, Ruth Gbagbi to Star in Upcoming Martial Arts Comedy "Everybody Hates Chad"
-photo: ../../../assets/images/Turn_18_Fratmat_Image_1.JPG
+photo: assets/images/Turn_18_Fratmat_Image_1.JPG
 ---
 
 # Olympic Gold Medalists Chieck Cissé, Ruth Gbagbi to Star in Upcoming Martial Arts Comedy *Everybody Hates Chad*

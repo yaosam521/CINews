@@ -2,6 +2,8 @@
 layout: article
 tags: daisirlan
 title: Turn 19
+headline: Cote d’Ivoire delegates sent to the Hospital for Broken Shoulders After Carrying PSC Discussions
+photo: assets/images/Turn_19_Daisirlan_Image_1.JPG
 ---
 
 # Cote d’Ivoire delegates sent to the Hospital for Broken Shoulders After Carrying PSC Discussions

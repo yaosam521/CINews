@@ -2,6 +2,8 @@
 layout: article
 tags: daisirlan
 title: Turn 8 
+headline: Right Wing Parties Ask Nestlé To Hire Liberals in Right-Wing Death Squads
+photo: assets/images/Turn_8_Daisirlan_Image_1.JPG
 ---
 
 # Right Wing Parties Ask Nestlé To Hire Liberals in Right-Wing<br> Death Squads

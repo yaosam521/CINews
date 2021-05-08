@@ -2,6 +2,8 @@
 layout: article
 tags: daisirlan
 title: Turn 7 
+headline: New WestAR Luxury Cabin TVs to Include Bootleg Thomas the Tank Engine Show with Alassane Ouattara's Face on the Trains
+photo: assets/images/Turn_7_Daisirlan_Image_1.JPG
 ---
 
 # New WestAR Luxury Cabin TVs to Include Bootleg Thomas the Tank Engine Show with Alassane Ouattara's Face on the Trains

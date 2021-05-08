@@ -2,6 +2,8 @@
 layout: article
 tags: fratmat
 title: Turn 32
+headline: Former Prime Minister Jeannot Ahoussou-Kouadio Throws Hat in Bid for President
+photo: assets/images/Turn_32_Fratmat_Image_1.JPG
 ---
 
 # Former Prime Minister Jeannot Ahoussou-Kouadio Throws Hat in Bid for President

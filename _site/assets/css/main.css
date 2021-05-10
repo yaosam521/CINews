@@ -125,14 +125,3 @@ blockquote {
     margin-bottom: 1rem;
     background-color: white;
 }
-
-#search-icon{
-    font-size: 1rem;
-    color: grey;
-}
-
-.asdfasdf{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}

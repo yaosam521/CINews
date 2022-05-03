@@ -103,25 +103,23 @@ blockquote {
     color: black;
 }
 
-.fa {
-    padding: 8px;
-    font-size: 2vw;
-    
-    /*
-    width: 1vw;
-    margin: 5px 2px;*/
+.fa-facebook{
+    padding: 8px 8px 8px 0px;
+    color: #ED8700;
 }
   
-.fa-facebook, .fa-twitter, .fa-instagram {
+.fa-twitter, .fa-reddit {
     color: #ED8700;
+    padding: 8px;
 }
 
 .icon-bar{
-    text-align: center;
-    font-size: large;
+    font-size: 30px;
 }
 
 #navbar{
     margin-bottom: 1rem;
     background-color: white;
 }
+
+

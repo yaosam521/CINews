@@ -8,10 +8,14 @@ photo: assets/images/Turn_7_Daisirlan_Image_1.JPG
 
 # New WestAR Luxury Cabin TVs to Include Bootleg Thomas the Tank Engine Show with Alassane Ouattara's Face on the Trains
 
-**By Pierre Koffi**, December 10th, 2021  
+<blockquote class="blockquote">
+  <p id="date-published">Late 2021</p>
+</blockquote>  
 
-![caption](../../../assets/images/Turn_7_Daisirlan_Image_1.JPG)
-<p id="image-caption">Alassane had never seen such bullshit before</p>
+<div class="main-image-container">
+    <img src = "../../../assets/images/Turn_7_Daisirlan_Image_1.JPG" id="container-image">
+    <p id="image-caption">Alassane had never seen such bullshit before</p>
+</div>
 
 ---
 

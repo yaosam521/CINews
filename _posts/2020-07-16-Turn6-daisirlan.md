@@ -8,10 +8,14 @@ photo: assets/images/Turn_6_Daisirlan_Image_1.JPG
 
 # Emmanuel Macron Brings Alassane Ouattara on Take Your Kid To Work Day
 
-**By Julia Kouassi**, October 17th, 2021  
+<blockquote class="blockquote">
+  <p id="date-published">Mid 2021</p>
+</blockquote>  
 
-![caption](../../../assets/images/Turn_6_Daisirlan_Image_1.JPG)
-<p id="image-caption">Image Credits to Reuters Côte d'Ivoire</p>
+<div class="main-image-container">
+    <img src = "../../../assets/images/Turn_6_Daisirlan_Image_1.JPG" id="container-image">
+    <p id="image-caption">Image Credits to Reuters Côte d'Ivoire</p>
+</div>
 
 ---
 

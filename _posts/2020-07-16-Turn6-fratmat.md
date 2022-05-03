@@ -8,10 +8,14 @@ photo: assets/images/Turn_6_Fratmat_Image_1.jpg
 
 # Ouattara Faces Tough Questions From Reporters on His Reponse to Anti-European Protests
 
-**By Pauline Bakary**, October 5th, 2021    
+<blockquote class="blockquote">
+  <p id="date-published">Mid 2021</p>
+</blockquote>  
 
-![Ouattara at the Press Conference](../../../assets/images/Turn_6_Fratmat_Image_1.jpg)  
-<p id="image-caption">Image credits to Camilla N'Zi @ National Ivorian Press Association</p>
+<div class="main-image-container">
+    <img src = "../../../assets/images/Turn_6_Fratmat_Image_1.jpg" id="container-image">
+    <p id="image-caption">Image Credits to Reuters Côte d'Ivoire</p>
+</div>
 
 ---
 

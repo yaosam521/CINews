@@ -8,7 +8,9 @@ photo: assets/images/Turn_9_Fratmat_Image_1.JPG
 
 # UST-CI Applied Technology Team Accepts Firearms Design Challenge from Nexter Systems
 
-**By Louis Koné**, April 21st, 2022
+<blockquote class="blockquote">
+  <p id="date-published">Mid 2022</p>
+</blockquote>
 
 <div class="main-image-container">
     <img src = "../../../assets/images/Turn_9_Fratmat_Image_1.JPG" id="container-image">

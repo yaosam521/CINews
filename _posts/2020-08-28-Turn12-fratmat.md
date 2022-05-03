@@ -8,7 +8,9 @@ photo: assets/images/Turn_12_Fratmat_Image_1.JPG
 
 # Addressing Statelesness in the Nation
 
-**By Phillippe Kone**, May 5, 2023
+<blockquote class="blockquote">
+  <p id="date-published">Mid 2023</p>
+</blockquote>
 
 <div class="main-image-container">
     <img src = "../../../assets/images/Turn_12_Fratmat_Image_1.JPG" id="container-image">

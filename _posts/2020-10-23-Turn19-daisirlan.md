@@ -8,7 +8,9 @@ photo: assets/images/Turn_19_Daisirlan_Image_1.JPG
 
 # Cote d’Ivoire delegates sent to the Hospital for Broken Shoulders After Carrying PSC Discussions
 
-October 27th, 2025
+<blockquote class="blockquote">
+  <p id="date-published">Late 2025</p>
+</blockquote>
 
 <div class="main-image-container">
     <img src = "../../../assets/images/Turn_19_Daisirlan_Image_1.JPG" id="container-image">

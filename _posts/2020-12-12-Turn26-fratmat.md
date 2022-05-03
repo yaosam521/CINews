@@ -8,7 +8,9 @@ photo: assets/images/Turn_26_Fratmat_Image_1.JPG
 
 # Infinity Ward's "Modern Warfare 2028" Sends Captain Price and Task Force 141 to Chad, Tanzania, and Tibet
 
-Early 2028
+<blockquote class="blockquote">
+  <p id="date-published">Early 2028</p>
+</blockquote>
 
 <div class="main-image-container">
     <img src = "../../../assets/images/Turn_26_Fratmat_Image_1.JPG" id="container-image">

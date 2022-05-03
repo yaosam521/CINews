@@ -8,10 +8,14 @@ photo: assets/images/Turn_8_Daisirlan_Image_1.JPG
 
 # Right Wing Parties Ask Nestlé To Hire Liberals in Right-Wing<br> Death Squads
 
-**By Pauline Coulibaly**, February 7th, 2022 
+<blockquote class="blockquote">
+  <p id="date-published">Early 2022</p>
+</blockquote> 
 
-<img src="../../../assets/images/Turn_8_Daisirlan_Image_1.JPG" class="image-1">
-<p id="image-caption">A right-wing politician who proceeded to cry, piss, shit, and cum everywhere when he hears the words "Worker's Rights"</p>
+<div class="main-image-container">
+    <img src = "../../../assets/images/Turn_8_Daisirlan_Image_1.JPG" id="container-image">
+    <p id="image-caption">A politician who proceeded to cry and soil his pants when he heard the words "Worker's Rights"</p>
+</div>
 
 ---
 

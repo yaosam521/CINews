@@ -8,7 +8,9 @@ photo: assets/images/Turn_10_Fratmat_Image_1.JPG
 
 # Local Secondary School Students Use Twitter and Memes to Get Fellow Peers into Politics
 
-**By Hamed N'Zi**, November 3rd, 2022
+<blockquote class="blockquote">
+  <p id="date-published">Late 2022</p>
+</blockquote>
 
 <div class="main-image-container">
     <img src = "../../../assets/images/Turn_10_Fratmat_Image_1.JPG" id="container-image">

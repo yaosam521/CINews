@@ -8,10 +8,14 @@ photo: assets/images/Turn_7_Fratmat_Image_1.JPG
 
 # WestAR and ECO Approach Completion, Other Economic Projects Planned
 
-**By Bernice Diomandé**, October 17th, 2021  
+<blockquote class="blockquote">
+  <p id="date-published">Late 2021</p>
+</blockquote>  
 
-![caption](../../../assets/images/Turn_7_Fratmat_Image_1.JPG)
-<p id="image-caption">Image Credits to Reuters Côte d'Ivoire</p>
+<div class="main-image-container">
+    <img src = "../../../assets/images/Turn_7_Fratmat_Image_1.JPG" id="container-image">
+    <p id="image-caption">Image Credits to Reuters Côte d'Ivoire</p>
+</div>
 
 ---
 

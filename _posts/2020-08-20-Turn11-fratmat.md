@@ -8,7 +8,9 @@ photo: assets/images/Turn_11_Fratmat_Image_1.JPG
 
 # Ouattara Apologizes for US Arms Deal, Soldiers Trade M4's in Favor of FAMAS's and AK-47's in Solidarity with CAR
 
-**By Gilbert Kouassi**, January 11, 2023
+<blockquote class="blockquote">
+  <p id="date-published">Early 2023</p>
+</blockquote>
 
 <div class="main-image-container">
     <img src = "../../../assets/images/Turn_11_Fratmat_Image_1.JPG" id="container-image">

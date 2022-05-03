@@ -8,10 +8,14 @@ photo: assets/images/Turn_8_Fratmat_Image_1.JPG
 
 # Chocolate, Colonial Extraction, and the Resource Curse Income Gap
 
-**By Jean-Gilbert Koffi**, February 3rd, 2022
+<blockquote class="blockquote">
+  <p id="date-published">Early 2022</p>
+</blockquote>
 
-![caption](../../../assets/images/Turn_8_Fratmat_Image_1.JPG)
-<p id="image-caption">A cocoa farmer gathers cocoa beans to be exported. Image Credits to Reuters Côte d'Ivoire</p>
+<div class="main-image-container">
+    <img src = "../../../assets/images/Turn_8_Fratmat_Image_1.JPG" id="container-image">
+    <p id="image-caption">A cocoa farmer gathers cocoa beans to be exported. Image Credits to Reuters Côte d'Ivoire</p>
+</div>
 
 ---
 

@@ -33,7 +33,7 @@ After a brief moment of silence, Ouattara evoked the memory of first president F
 
 Bernard Dembélé of *La Pomme de Guerre* and Jerôme Coulibaly of *Notre Défense* both questioned the deployment of the Army with the National Gendarmerie to quell the uprisings, to which Ouattara defended the deployment by pointing out that political resources were all used up trying to improve the political infrastructure of Côte d'Ivoire and get the first phase of ECO off the ground, while an economic response would be impractical in addition to the WestAR needing the most attention.
 
-As the conference room was packed with reporters, I, Pauline Bakary, was only able to ask one question to President Ouattara.
+As the conference room was packed with reporters, the author was only able to ask one question to President Ouattara.
 
 "Do you have any plans in the future for requesting aid from Europe, or are you looking to investors elsewhere such as China or the United States?"
 

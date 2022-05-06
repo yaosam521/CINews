@@ -6,7 +6,7 @@ headline: Right Wing Parties Ask Nestlé To Hire Liberals in Right-Wing Death Sq
 photo: assets/images/Turn_8_Daisirlan_Image_1.JPG
 ---
 
-# Right Wing Parties Ask Nestlé To Hire Liberals in Right-Wing<br> Death Squads
+# Right Wing Parties Ask Nestlé To Hire Liberals in Right-Wing Death Squads
 
 <blockquote class="blockquote">
   <p id="date-published">Early 2022</p>

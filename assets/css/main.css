@@ -9,17 +9,19 @@
     font-size: large;
 }
 
+@media (max-width: 992px) {
+    .main-page > p, .main-page > ul > li, .main-page > ol > li{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: xx-large;
+    }
+}
+
 .container > p{
     font-size: large;
 }
 
-#lyrics{
-    text-align: center;
-    font-style: italic;
-}
-
-li {
-    font-size: large;
+.footer > p{
+    font-size:  smaller;
 }
 
 #headlines > ul > li {

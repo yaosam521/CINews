@@ -94,6 +94,11 @@ blockquote {
 #bar-options > .nav-item > .nav-link{
     font-size: large;
     color: black;
+    text-align: right;
+}
+
+#bar-options > .nav-item > .nav-link:hover{
+    text-decoration: underline;
 }
 
 .fa-facebook{
